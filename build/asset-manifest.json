@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Lottery/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/Lottery/static/js/main.450db6e1.chunk.js",
+    "main.js.map": "/Lottery/static/js/main.450db6e1.chunk.js.map",
+    "runtime-main.js": "/Lottery/static/js/runtime-main.b3445188.js",
+    "runtime-main.js.map": "/Lottery/static/js/runtime-main.b3445188.js.map",
+    "static/css/2.7e7ce584.chunk.css": "/Lottery/static/css/2.7e7ce584.chunk.css",
+    "static/js/2.aa5d259f.chunk.js": "/Lottery/static/js/2.aa5d259f.chunk.js",
+    "static/js/2.aa5d259f.chunk.js.map": "/Lottery/static/js/2.aa5d259f.chunk.js.map",
+    "index.html": "/Lottery/index.html",
+    "precache-manifest.62e8ff5308345b02c1befbcbdebbad4d.js": "/Lottery/precache-manifest.62e8ff5308345b02c1befbcbdebbad4d.js",
+    "service-worker.js": "/Lottery/service-worker.js",
+    "static/css/2.7e7ce584.chunk.css.map": "/Lottery/static/css/2.7e7ce584.chunk.css.map",
+    "static/css/main.27fd15f6.chunk.css.map": "/Lottery/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.aa5d259f.chunk.js.LICENSE": "/Lottery/static/js/2.aa5d259f.chunk.js.LICENSE",
+    "static/media/semantic.min.css": "/Lottery/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3445188.js",
+    "static/css/2.7e7ce584.chunk.css",
+    "static/js/2.aa5d259f.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.450db6e1.chunk.js"
+  ]
+}
