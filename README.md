@@ -1,3 +1,5 @@
+#lottery-game
+
 Lottery-game is a simple decentralized lottery game that runs on top of ethereum blockchain. 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
